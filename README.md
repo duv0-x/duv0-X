@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me:
-I'm a DevOps Engineer from Colombia. 
+I am a DevOps Engineer from Colombia. 
 - 🔭 I’m currently working on LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 How to reach me: ...
