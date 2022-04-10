@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
+  <a href="https://www.linkedin.com/in/duvanballen">
+    <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -14,8 +16,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+---
 
-
+### :man_technologist: About Me :
+<div id="about" align="center">
+I'm a DevOps Engineer from Colombia. 
+- 🔭 I’m currently working on LuloBank.
+- 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: 
+</div>
 
 <!--
 **duv0/duv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
