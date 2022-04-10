@@ -1,11 +1,13 @@
 <div id="header" align="center">
-  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="270"/>
+  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div id="hello" align="center">
   <h1>
   ¡Buenas sumercé!
