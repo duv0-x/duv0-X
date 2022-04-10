@@ -7,7 +7,10 @@
   </a>
 </div>
 <div id="hello" align="center">
-  ### ¡Buenas sumercé! 👋
+  <h1>
+  ¡Buenas sumercé!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 
