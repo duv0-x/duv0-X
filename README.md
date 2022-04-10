@@ -18,13 +18,11 @@
 </div>
 
 ### :man_technologist: About Me:
-<div id="about">
 I'm a DevOps Engineer from Colombia. 
 - 🔭 I’m currently working on LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: 
-</div>
+- ⚡ Fun fact: ...
 
 <!--
 **duv0/duv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
