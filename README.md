@@ -48,7 +48,8 @@ I am a DevOps/SRE Engineer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duv0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duv0&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Estadisticas para añadir cuando haya subido mis contribuciones:
