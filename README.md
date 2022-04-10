@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a DevOps Engineer from Colombia. 
+I am a DevOps/SRE Engineer. 
 - 🔭 I’m currently working at LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duvanballen/)
