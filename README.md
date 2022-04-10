@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width="270"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/duvanballen">
