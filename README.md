@@ -22,7 +22,7 @@ I am a DevOps Engineer from Colombia.
 - 🔭 I’m currently working at LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duvanballen/)
-- :owl: I :heart: philosophy.
+- :owl: I :heart: philosophy and rap.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
