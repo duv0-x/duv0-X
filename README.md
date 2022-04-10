@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/duvanballen">
-    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="600"/>
+    <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="500"/>
   </a>
 </div>
 
