@@ -23,7 +23,9 @@
 I am a DevOps/SRE Engineer. 
 - 🔭 I’m currently working at LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duvanballen/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/duvanballen">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - :owl: I :heart: philosophy and rap.
 ---
 ### :hammer_and_wrench: Languages and Tools :
