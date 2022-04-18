@@ -26,7 +26,7 @@ I am a DevOps/SRE Engineer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- :owl: I :heart: philosophy and rap.
+- :owl: I :heart: rap.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
