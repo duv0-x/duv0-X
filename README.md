@@ -20,7 +20,6 @@
 
 -->
 ### :man_technologist: About Me:
-I am a DevOps/SRE Engineer. 
 - 🔭 I’m currently working at LuloBank.
 - 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/duvanballen">
