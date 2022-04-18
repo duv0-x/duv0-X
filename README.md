@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="500"/>
@@ -17,6 +18,7 @@
   </h1>
 </div>
 
+-->
 ### :man_technologist: About Me:
 I am a DevOps/SRE Engineer. 
 - 🔭 I’m currently working at LuloBank.
