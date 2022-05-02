@@ -21,7 +21,7 @@
 -->
 ### :man_technologist: About Me:
 - 🔭 I’m currently working at LuloBank as a DevOps Engineer.
-- 🌱 I’m currently learning Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
+- 🌱 I’m currently learning and teaching Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
 - 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
