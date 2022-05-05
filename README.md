@@ -20,12 +20,12 @@
 
 -->
 ### :man_technologist: About Me:
-- 🔭 I’m currently working at LuloBank as a DevOps Engineer.
-- 🌱 I’m currently learning and teaching Terraform, AWS, Jenkins, CI/CD, Kubernetes, Docker...
+- 🔭 I’m currently working at LuloBank as DevOps Engineer.
+- 🌱 I’m currently learning Firebase.
 - 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- :owl: I :heart: rap.
+- :owl: I love philosophy and rap.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,7 +51,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duv0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0-x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Estadisticas para añadir cuando haya subido mis contribuciones:
