@@ -51,8 +51,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duv0-x&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0-x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0-x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Estadisticas para añadir cuando haya subido mis contribuciones:
 
