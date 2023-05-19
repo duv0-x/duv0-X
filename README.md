@@ -20,7 +20,7 @@
 
 -->
 ### :man_technologist: About Me:
-- 🔭 I’m currently working at Lulo X as SRE & DevOps Engineer.
+- 🔭 I’m currently working at Lulo X as SRE & DevOps Engineering.
 - 🌱 I’m currently learning Pulumi.
 - :owl: I love philosophy, rap and Nintendo games.
 - 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
