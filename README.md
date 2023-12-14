@@ -23,6 +23,7 @@
 - 🔭 I’m currently working at Lulo X as SRE & Chaos Engineering.
 - 🌱 I’m currently learning Pulumi.
 - :owl: I love philosophy, rap and Nintendo games.
+- :book: Goodreads -> <a href="https://www.goodreads.com/duv0-x"></a>
 - 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
