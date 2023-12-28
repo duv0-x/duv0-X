@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning <a href="https://www.pulumi.com/">Pulumi</a>.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
-- :owl: I love philosophy, rap and Nintendo games.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
