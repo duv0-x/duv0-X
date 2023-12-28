@@ -21,9 +21,9 @@
 -->
 ### :man_technologist: About Me:
 - 🔭 I’m SRE in <b><a href="https://www.linkedin.com/company/lulo-x">Lulo X</a></b>.
-- 🌱 I’m currently learning <a href="https://www.pulumi.com/">Pulumi</a>.
-- 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>.
-- :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
+- 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b>.
+- 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
+- :book: My <b><a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile</b>.
 - 🎮 Nintendo FC: <b>SW-7407-9561-5507</b>.
 
 ---
