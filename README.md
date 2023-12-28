@@ -20,7 +20,7 @@
 
 -->
 ### :man_technologist: About Me:
-- 🔭 I’m SRE in <a href="https://www.linkedin.com/company/lulo-x">Lulo X</a>.
+- 🔭 I’m SRE in <b><a href="https://www.linkedin.com/company/lulo-x">Lulo X</a></b>.
 - 🌱 I’m currently learning <a href="https://www.pulumi.com/">Pulumi</a>.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
