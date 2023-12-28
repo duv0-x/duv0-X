@@ -21,7 +21,7 @@
 -->
 ### :man_technologist: About Me:
 - 🔭 I’m currently working at <a href="https://www.linkedin.com/company/lulo-x">Lulo X</a> as SRE & Chaos Engineering.
-- 🌱 I’m currently learning Pulumi.
+- 🌱 I’m currently learning <a href="https://www.pulumi.com/">Pulumi</a>.
 - :owl: I love philosophy, rap and Nintendo games.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>.
