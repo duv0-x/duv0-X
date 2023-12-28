@@ -20,7 +20,7 @@
 
 -->
 ### :man_technologist: About Me:
-- 🔭 I’m currently working at Lulo X as SRE & Chaos Engineering.
+- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/lulo-x">Lulo X</a> as SRE & Chaos Engineering.
 - 🌱 I’m currently learning Pulumi.
 - :owl: I love philosophy, rap and Nintendo games.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
