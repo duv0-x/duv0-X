@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning <a href="https://www.pulumi.com/">Pulumi</a>.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
-- 🎮 Nintendo friend code: SW-7407-9561-5507
+- 🎮 Nintendo FC: <b>SW-7407-9561-5507</b>.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
