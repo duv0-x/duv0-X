@@ -25,7 +25,7 @@
 - :owl: I love philosophy, rap and Nintendo games.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
 - 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Profile"/>
   </a>
 ---
 ### :hammer_and_wrench: Languages and Tools :
