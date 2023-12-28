@@ -24,9 +24,8 @@
 - 🌱 I’m currently learning Pulumi.
 - :owl: I love philosophy, rap and Nintendo games.
 - :book: My <a href="https://www.goodreads.com/duv0-x">Goodreads</a> profile.
-- 📫 Reach me on -> <a href="https://www.linkedin.com/in/duvanballen">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Profile"/>
-  </a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a>
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
