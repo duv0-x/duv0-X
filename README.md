@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b>.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 - :book: My <b><a href="https://www.goodreads.com/duv0-x">Goodreads</a></b> profile.
-- 🎮 Nintendo FC: <b>SW-7407-9561-5507</b>.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
