@@ -21,7 +21,7 @@
 -->
 ### :man_technologist: About Me:
 - 🔭 I’m cloud engineer in <b><a href="https://www.linkedin.com/company/lulo-x">Lulo X</a></b>.
-- 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b>.
+- 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b> with 🐍.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
 ---
