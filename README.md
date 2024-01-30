@@ -25,7 +25,7 @@
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
 ---
-### :hammer_and_wrench: My tools:
+### :hammer_and_wrench: My current tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
