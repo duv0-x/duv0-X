@@ -21,7 +21,7 @@
 -->
 ### :man_technologist: About Me:
 - ☁️ I’m DevOps Engineer at <b><a href="https://www.linkedin.com/company/lulo-x">Lulo X</a></b>.
-- 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b> with 🐍.
+- 🌱 I’m currently learning <b><a href="https://www.unity.com/">Unity</a></b> 👾.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
 ---
