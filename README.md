@@ -19,7 +19,7 @@
 </div>
 
 -->
-### :man_technologist: About Me:
+### 👨🏻‍💻 About Me:
 - ☁️ I’m DevOps Engineer at <b><a href="https://www.linkedin.com/company/lulobank">Lulo Bank</a></b>.
 - 🌱 I’m currently learning <b><a href="https://www.unity.com/">Python</a></b> 🐍.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
@@ -40,6 +40,12 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duv0-x&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@duv0-x/30-nites-of-code)  
+  ![@duv0-x #30NitesOfCode](https://www.codedex.io/api/petStatus?user=duv0-x)
 
 <!--
 
