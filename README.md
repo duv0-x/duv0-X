@@ -37,13 +37,13 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duv0-x&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
-## #30NitesOfCode:
+### 🥚 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@duv0-x/30-nites-of-code)  
   ![@duv0-x #30NitesOfCode](https://www.codedex.io/api/petStatus?user=duv0-x)
 
