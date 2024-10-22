@@ -21,7 +21,7 @@
 -->
 ### 👨🏻‍💻 About Me:
 - ☁️ I’m DevOps Engineer at <b><a href="https://www.linkedin.com/company/lulobank">Lulo Bank</a></b>.
-- 🌱 I’m currently learning <b><a href="[https://codedex.io/&#64;duv0-x](https://www.codedex.io/&#64;duv0-x)">Python</a></b> 🐍.
+- 🌱 I’m currently learning <b>Python</b> 🐍.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
 ---
