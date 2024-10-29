@@ -43,10 +43,6 @@
 
 ---
 
-### 🥚 #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@duv0-x/30-nites-of-code)  
-  ![@duv0-x #30NitesOfCode](https://www.codedex.io/api/petStatus?user=duv0-x)
-
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duv0-x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
