@@ -21,7 +21,7 @@
 -->
 ### 👨🏻‍💻 About Me:
 - ☁️ I’m SRE & DevOps Engineer at <b><a href="https://lulox.co/">Lulo X</a></b>.
-- 🌱 I’m currently learning <b>Python</b> 🐍.
+- 🌱 I’m currently learning <b><a href="https://www.pulumi.com/">Pulumi</a></b> with <b>Python</b> 🐍.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
 ---
