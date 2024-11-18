@@ -20,7 +20,7 @@
 
 -->
 ### 👨🏻‍💻 About Me:
-- ☁️ I’m DevOps Engineer at <b><a href="https://www.lulobank.com/">Lulo Bank</a></b>.
+- ☁️ I’m DevOps Engineer at <b><a href="https://lulox.co/">Lulo X</a></b>.
 - 🌱 I’m currently learning <b>Python</b> 🐍.
 - 📫 Reach me on <b><a href="https://www.linkedin.com/in/duvanballen">LinkedIn</a></b>.
 
